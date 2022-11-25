@@ -1,0 +1,1 @@
+extract_data('daily-stock', 'data')
